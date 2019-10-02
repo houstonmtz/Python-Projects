@@ -1,12 +1,5 @@
-# By submitting this assignment, I agree to the following:
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
-#   "I have not given or received any unauthorized aid on this assignment."
-#
 # Name:         Houston Martinez
-# Section:      526
-# Assignment:   Lab 5b-b
 # Date:         26 September 2019
-#
 
 print("This program will calculate the sum of all the integers from 0 to the number entered from the user using a for"
       " loop.")
