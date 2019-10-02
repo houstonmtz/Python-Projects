@@ -1,12 +1,5 @@
-# By submitting this assignment, I agree to the following:
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
-#   "I have not given or received any unauthorized aid on this assignment."
-#
 # Name:         Houston Martinez
-# Section:      526
-# Assignment:   Lab 4b - 2
 # Date:         19 September 2019
-#
 
 print("This program will calculate the Reynold Number based on the user's inputs. It will also tell the user whether"
       " the flow is laminar, in transition, or turbulent.")
