@@ -11,7 +11,7 @@ for numbersbelow in range(integer):
     totalvalue += numbersbelow
 
 print(totalvalue)
-print("-------------------------------------------------------------------------------------------------------")
+print("--------------------------------------------------------------------------------------------------------")
 
 print("This program will calculate the sum of all the integers from 0 to the number entered from the user using a while"
       " loop.")
@@ -28,7 +28,7 @@ if integer > 0:
 else:
     print("Error! First value entered was equal to or below 0.")
 print(totalvalue)
-print("-------------------------------------------------------------------------------------------------------")
+print("--------------------------------------------------------------------------------------------------------")
 
 print("This program will calculate the product of all the integers from 1 to the number entered from the user using a "
       "for loop.")
@@ -40,7 +40,7 @@ for numbersbelow in range(1, integer):
     totalvalue *= numbersbelow
 
 print(totalvalue)
-print("-------------------------------------------------------------------------------------------------------")
+print("--------------------------------------------------------------------------------------------------------")
 
 print("This program will calculate the product of all the integers from 1 to the number entered from the user using a"
       " while loop.")
@@ -55,4 +55,4 @@ if integer > 1:
             break
 
 print(totalvalue)
-print("-------------------------------------------------------------------------------------------------------")
+print("--------------------------------------------------------------------------------------------------------")
